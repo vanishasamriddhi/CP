@@ -3,10 +3,16 @@
 1st set of basic stuffs
 
 1.Pattern printing problems (Sourabh Shukla Videos on Youtube)
+
 2.time complexity analysis (Don’t stress to much, keep participating in contests, you will keep learning) 
+
+
 3.linear search and circular array representation (any article, no need to practice) 
+
 4.palindrome and other numbers(perfect, Armstrong) for basic number problems 
+
 5.Simple Hashing Problem(frequency counting and stuffs) 
+
 6.Prefix Sum Problems(1D and 2D) {CP Sheet has problems} 
 7.Sliding window technique(CP Sheet has problems) ----------------------------------------------------------------------------------------------------------- 
 
@@ -113,7 +119,11 @@ Range Query Algos:
 
 Some optional and rare ones: 
 1.Sprague-Grundy Theorum 
-2.Flows and Related Problems 
+
+2.Flows and Related Problems
+
 3.Heavy Light Decomposition 
+
 4.Convex Hull Algorithm 
+
 5.FFT/NTT
