@@ -14,29 +14,44 @@
 5.Simple Hashing Problem(frequency counting and stuffs) 
 
 6.Prefix Sum Problems(1D and 2D) {CP Sheet has problems} 
-7.Sliding window technique(CP Sheet has problems) ----------------------------------------------------------------------------------------------------------- 
+
+7.Sliding window technique(CP Sheet has problems) 
+----------------------------------------------------------------------------------------------------------- 
 
 Basics of number theory 
 1.Binary Search (TakeUforward Playlist and CP Sheet practice problems) 
+
 2. GCD of 2 numbers in logarithmic time(Euclidean and Extended Euclidean Algorithm) (CodeNCode)
-3.linear Diphantine Equation (CodeNCode)
-4. Checking prime in sqrt(n) complexity (Learn from Codeverse Channel) 
-5.Sieve of Eratosthenes(Learn from Codeverse Channel) 
-6.Segmented Sieve (Learn from Codeverse Channel)
-7.Finding prime factorisation of a number in logn per querry (Learn from Codeverse Channel)
-8.Euler Totent Function (CodeNcode)
-9.Fermat Little Theorum (CodeNCode) 
+3. 
+4.linear Diphantine Equation (CodeNCode)
+
+5. Checking prime in sqrt(n) complexity (Learn from Codeverse Channel) 
+6. 
+7.Sieve of Eratosthenes(Learn from Codeverse Channel) 
+
+8.Segmented Sieve (Learn from Codeverse Channel)
+
+9.Finding prime factorisation of a number in logn per querry (Learn from Codeverse Channel)
+
+10.Euler Totent Function (CodeNcode)
+
+11.Fermat Little Theorum (CodeNCode) 
 
 Tougher version of number theory (All from CodeNCode) 
 
 1.Finding x^n in log(n) 
+
 2. Modular Arithmetic 
-3.Modular Inverse of a number 
+4.Modular Inverse of a number 
+
 3.Modular Exponentiation 
-4.Chinese Remainder Theorum 
-5.Factorial Modulo Mod 
-6.Finding nCr and nPr for queries (constant time) 
-7.Inclusion Exclusion Principle (combinatorics problems) 
+
+4.Modular Inverse of a number 
+5.Modular Exponentiation 
+6.Chinese Remainder Theorum 
+7.Factorial Modulo Mod 
+8.Finding nCr and nPr for queries (constant time) 
+9.Inclusion Exclusion Principle (combinatorics problems) 
 
 
 1.learn about basic sorting algorithms (bubble, selection, insertion) 
@@ -111,10 +126,14 @@ Range Query Algos:
 2.Fenwick Tree and Binary Lifting on Fenwick Tree(read about range update trick also) 3.problems on fenwick tree
 4.Matrix Exponentiation(problems) 
 5.Sqrt Decomposition Technique
+
 6.Update and Querry Operations 
 7.Mo's algorithm 
+
 8.Mo's algorithm on trees 
+
 9.Segment Tree(a must)(Range Queries and point Updates)
+
 10.Lazy propagation on segment trees 
 
 Some optional and rare ones: 
